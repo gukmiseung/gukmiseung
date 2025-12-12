@@ -1,3 +1,3 @@
-# guk-miseung
+# gukmiseung
 
 ### 안녕하세요! 저는 컴퓨터학부 25학번 국미승입니다!
